@@ -1,2 +1,3 @@
 # GitHub1_Practical
-Github
+Emanpreet Singh Mann
+
